@@ -1,21 +1,21 @@
-# 🚀 Task 4: Logistic Regression - Binary Classification
+# Task 4: Logistic Regression - Binary Classification
 
-## 📌 Objective
+## Objective
 Build a binary classifier using logistic regression on a breast cancer dataset.
 
-## 🛠️ Tools Used
+## Tools Used
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
 
-## 📂 Dataset
+## Dataset
 - Dataset: `data.csv`
 - Target Variable: `diagnosis`  
   - Malignant: 1  
   - Benign: 0
 
-## 📈 Workflow
+## Workflow
 1. Loaded and cleaned the dataset
 2. Converted target variable to numeric
 3. Performed train-test split
@@ -28,7 +28,7 @@ Build a binary classifier using logistic regression on a breast cancer dataset.
    - ROC-AUC Curve
 7. Visualized top influential features
 
-## ✅ Result
+## Result
 Achieved good performance on test data. Logistic Regression proved effective for binary classification in this case.
 
 ---
