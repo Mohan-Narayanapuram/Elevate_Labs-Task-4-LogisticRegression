@@ -32,5 +32,4 @@ Build a binary classifier using logistic regression on a breast cancer dataset.
 Achieved good performance on test data. Logistic Regression proved effective for binary classification in this case.
 
 ---
-
 > **Submitted for Elevate Labs AI/ML Internship**
